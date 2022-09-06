@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Stacks
 {
@@ -19,7 +20,7 @@ namespace Stacks
 
             ArrayStack.Push(100);
             //ArrayStack.Pop();
-            ;
+
         }
     }
 }
